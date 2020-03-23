@@ -10,5 +10,5 @@
     <li>React Native </li>
 </ul>
 
-<img src = "images/app.jpeg">
-<img src = "images/site.png">
+<img src = "photos/app.jpeg">
+<img src = "photos/site.png">
